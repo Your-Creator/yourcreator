@@ -13,7 +13,7 @@ export class AboutComponent implements OnInit {
     private meta: Meta
   ) {
       this.titleService.setTitle('ABOUT- YOUR CREATOR');
-      this.meta.addTag({name: 'description', content: 'WEB/APP DESIGNING COMPANY'});
+      this.meta.addTag({name: 'description', content: 'ABOUT WEB/APP DESIGNING COMPANY'});
       this.meta.addTag({nme: 'keyword', Content:'Best Web designing company in Cuttack Bhubaneswar Odisha, Create Website, Cheap Website designing company in Cuttack Bhubaneswar Odisha, Android App Developer in Cuttack Bhubaneswar Odisha, Top Best SEO making Comapany, Fix Bugs in Wordpress website'});
     }
 

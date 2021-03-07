@@ -14,7 +14,7 @@ export class PricingsComponent implements OnInit {
   ) {
       this.titleService.setTitle('PRICINGS- YOUR CREATOR');
       this.meta.addTag({name: 'description', content: 'WEB/APP DESIGNING COMPANY'});
-      this.meta.addTag({nme: 'keyword', Content:'Best Web designing company in Cuttack Bhubaneswar Odisha, SEO Company, SEO in Cuttack Bhubaneswar Odisha, Create Website, Cheap Website designing company in Cuttack Bhubaneswar Odisha, Android App Developer in Cuttack Bhubaneswar Odisha, Top Best SEO making Comapany, Fix Bugs in Wordpress website'});
+      this.meta.addTag({nme: 'keyword', Content:'Best Web designing company in Cuttack Bhubaneswar Odisha, Best SEO Company, Best SEO in Cuttack Bhubaneswar Odisha, Create Website, Cheap Website designing company in Cuttack Bhubaneswar Odisha, Android App Developer in Cuttack Bhubaneswar Odisha, Top Best SEO making Comapany, Fix Bugs in Wordpress website'});
     }
 
   ngOnInit(): void {
